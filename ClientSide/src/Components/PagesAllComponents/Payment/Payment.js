@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { AiOutlineHome, AiOutlineRight } from "react-icons/ai";
-import card3 from "../../images/cash-on.png";
-import card1 from "../../images/credit-card.png";
-import card2 from "../../images/paypal.png";
+import card3 from "../../../images/cash-on.png";
+import card1 from "../../../images/credit-card.png";
+import card2 from "../../../images/paypal.png";
 import Payment1 from "./Payment1.js";
 import Payment2 from "./Payment2.js";
 import Payment3 from "./Payment3.js";

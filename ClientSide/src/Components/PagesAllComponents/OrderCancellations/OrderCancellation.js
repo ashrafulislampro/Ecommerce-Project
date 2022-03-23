@@ -1,6 +1,6 @@
 import React from 'react';
 import { AiOutlineHome, AiOutlineRight } from "react-icons/ai";
-import tv from "../../images/tv.png";
+import tv from "../../../images/tv.png";
 import MyAccountSidebar from '../MyAccountPages/Sidebar/MyAccountSidebar';
 
 const OrderCancellation = () => {

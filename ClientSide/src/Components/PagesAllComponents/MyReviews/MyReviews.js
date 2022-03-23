@@ -1,6 +1,6 @@
 import React from 'react';
 import { AiOutlineHome, AiOutlineRight } from "react-icons/ai";
-import keyboard from "../../images/keyboard.png";
+import keyboard from "../../../images/keyboard.png";
 import MyAccountSidebar from '../MyAccountPages/Sidebar/MyAccountSidebar';
 
 const MyReviews = () => {

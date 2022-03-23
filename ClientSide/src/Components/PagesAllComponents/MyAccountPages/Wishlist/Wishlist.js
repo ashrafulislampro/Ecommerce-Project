@@ -5,8 +5,8 @@ import {
   AiOutlineShoppingCart
 } from "react-icons/ai";
 import { RiDeleteBin6Line } from "react-icons/ri";
-import bag from "../../../images/bag.png";
-import keyboard from "../../../images/keyboard.png";
+import bag from "../../../../images/bag.png";
+import keyboard from "../../../../images/keyboard.png";
 import MyAccountSidebar from "../Sidebar/MyAccountSidebar";
 const Wishlist = () => {
   return (

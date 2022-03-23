@@ -1,5 +1,5 @@
 import React from 'react';
-import paypal from "../../images/paypal.png";
+import paypal from "../../../images/paypal.png";
 const Payment2 = () => {
     return (
       <div className='mt-10 px-10 border shadow-lg py-5 rounded-md'>

@@ -7,7 +7,7 @@ import { CgLogOff } from "react-icons/cg";
 import { FaRegAddressCard } from "react-icons/fa";
 import { MdPayment } from "react-icons/md";
 import { Link } from "react-router-dom";
-import avatar from "../../../images/cvphoto.png";
+import avatar from "../../../../images/cvphoto.png";
 const MyAccountSidebar = () => {
   return (
     <div>

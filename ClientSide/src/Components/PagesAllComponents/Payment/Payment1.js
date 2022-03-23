@@ -1,7 +1,7 @@
 import React from 'react';
-import img3 from "../../images/payment-express.png";
-import img2 from "../../images/payment-master.png";
-import img1 from "../../images/payment-visa.png";
+import img3 from "../../../images/payment-express.png";
+import img2 from "../../../images/payment-master.png";
+import img1 from "../../../images/payment-visa.png";
 const Payment1 = () => {
     return (
       <div className="shadow-xl">

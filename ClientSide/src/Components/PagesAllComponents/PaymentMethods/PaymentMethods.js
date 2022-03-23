@@ -1,6 +1,6 @@
 import React from "react";
 import { AiOutlineHome, AiOutlineRight } from "react-icons/ai";
-import express from "../../images/a-express.png";
+import express from "../../../images/a-express.png";
 import MyAccountSidebar from "../MyAccountPages/Sidebar/MyAccountSidebar";
 
 const PaymentMethods = () => {

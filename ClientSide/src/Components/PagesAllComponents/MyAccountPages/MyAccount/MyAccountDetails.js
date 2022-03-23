@@ -1,6 +1,6 @@
 import React from "react";
-import laptop from "../../../images/laptop-5.png";
-import tv from "../../../images/tv.png";
+import laptop from "../../../../images/laptop-5.png";
+import tv from "../../../../images/tv.png";
 const MyAccountDetails = () => {
   return (
     <div>

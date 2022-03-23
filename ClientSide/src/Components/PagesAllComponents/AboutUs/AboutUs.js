@@ -3,12 +3,12 @@ import { AiFillInstagram, AiOutlineHome, AiOutlineRight } from "react-icons/ai";
 import { BiLike } from "react-icons/bi";
 import { BsTwitter } from "react-icons/bs";
 import { FaFacebookF } from "react-icons/fa";
-import about2 from "../../images/about-img-2.jpg";
-import about1 from "../../images/about-img.jpg";
-import img1 from "../../images/cvphoto.png";
-import img2 from "../../images/farukvy.jpg";
-import img3 from "../../images/jonayed.jpg";
-import img4 from "../../images/team-2.jpg";
+import about2 from "../../../images/about-img-2.jpg";
+import about1 from "../../../images/about-img.jpg";
+import img1 from "../../../images/cvphoto.png";
+import img2 from "../../../images/farukvy.jpg";
+import img3 from "../../../images/jonayed.jpg";
+import img4 from "../../../images/team-2.jpg";
 
 
 const AboutUs = () => {

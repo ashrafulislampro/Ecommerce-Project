@@ -1,5 +1,5 @@
 import React from "react";
-import cash from "../../images/cash-on.png";
+import cash from "../../../images/cash-on.png";
 
 const Payment3 = () => {
   return (
