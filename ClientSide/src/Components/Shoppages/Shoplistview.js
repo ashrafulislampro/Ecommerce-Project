@@ -3,17 +3,17 @@ import {
   AiOutlineHome,
   AiOutlineRight
 } from "react-icons/ai";
-import Sidebar from "../Sidebar/Sidebar";
-import ProductItems from "./ProductItems";
-import ProductItems2 from "./ProductItems2";
+import GridProductDetails from "./GridProductDetails";
+import ListProductDetails from "./ListProductDetails";
+import Sidebar from "./Sidebar/Sidebar";
 const Shoplistview = () => {
   const [product, setProduct] = React.useState("second");
   return (
     <div className="container">
       <div className="flex items-center mt-4">
         <AiOutlineHome className="text-primary" />
-        <AiOutlineRight className="text-gray-500 mx-2" />
-        <h6>Shop</h6>
+        <AiOutlineRight className="text-primary mx-2" />
+        <h6 className="text-primary">Shop</h6>
         <AiOutlineRight className="text-gray-500 mx-2" />
         <h6>List view</h6>
       </div>
@@ -48,8 +48,8 @@ const Shoplistview = () => {
             </div>
           </div>
           {/* product items */}
-          {product === "first" && <ProductItems></ProductItems>}
-          {product === "second" && <ProductItems2></ProductItems2>}
+          {product === "first" && <GridProductDetails></GridProductDetails>}
+          {product === "second" && <ListProductDetails></ListProductDetails>}
         </div>
       </div>
     </div>

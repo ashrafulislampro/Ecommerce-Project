@@ -7,15 +7,15 @@ import { BsTwitter } from 'react-icons/bs';
 import { FaFacebookF, FaRegHeart } from 'react-icons/fa';
 import { GrInstagram } from 'react-icons/gr';
 import { ImArrowLeft } from 'react-icons/im';
-import headphones2 from "../../../../images/headphone-3.png";
-import mobile3 from "../../../../images/iphone-xr.png";
-import laptop2 from "../../../../images/laptop-2.png";
-import shoes from "../../../../images/shoes-5.png";
-import shoes1 from "../../../../images/slider-1.png";
-import shoes2 from "../../../../images/slider-2.png";
-import shoes3 from "../../../../images/slider-3.png";
-import shoes4 from "../../../../images/slider-4.png";
-import shoes5 from "../../../../images/slider-5.png";
+import headphones2 from "../../../images/headphone-3.png";
+import mobile3 from "../../../images/iphone-xr.png";
+import laptop2 from "../../../images/laptop-2.png";
+import shoes from "../../../images/shoes-5.png";
+import shoes1 from "../../../images/slider-1.png";
+import shoes2 from "../../../images/slider-2.png";
+import shoes3 from "../../../images/slider-3.png";
+import shoes4 from "../../../images/slider-4.png";
+import shoes5 from "../../../images/slider-5.png";
 import CarouselSlider from "../CarouselSlide/CarouselSlider";
 import ProductInfo from "../ProductInfo/ProductInfo";
 import QuestionAnswer from "../QuestionAnswer/QuestionAnswer";
@@ -27,8 +27,8 @@ const ProductDetails = () => {
     <div className="container">
       <div className="flex items-center mt-4 mb-6">
         <AiOutlineHome className="text-primary" />
-        <AiOutlineRight className="text-gray-500 mx-2" />
-        <h6>Shop</h6>
+        <AiOutlineRight className="text-primary mx-2" />
+        <h6 className="text-primary">Shop</h6>
         <AiOutlineRight className="text-gray-500 mx-2" />
         <h6>Product Details</h6>
       </div>

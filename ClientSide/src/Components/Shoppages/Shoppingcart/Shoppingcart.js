@@ -10,8 +10,8 @@ const Shoppingcart = () => {
     <div className="container pb-20">
       <div className="flex items-center mt-4 mb-6">
         <AiOutlineHome className="text-primary" />
-        <AiOutlineRight className="text-gray-500 mx-2" />
-        <h6>Shop</h6>
+        <AiOutlineRight className="text-primary mx-2" />
+        <h6 className="text-primary">Shop</h6>
         <AiOutlineRight className="text-gray-500 mx-2" />
         <h6>Shopping cart</h6>
       </div>

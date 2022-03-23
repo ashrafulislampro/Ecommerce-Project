@@ -3,49 +3,19 @@ import {
   AiOutlineHome,
   AiOutlineRight
 } from "react-icons/ai";
-import Sidebar from "../Sidebar/Sidebar";
-import ProductItems from "./ProductItems";
-import ProductItems2 from "./ProductItems2";
+import GridProductDetails from "./GridProductDetails";
+import ListProductDetails from "./ListProductDetails";
 import "./Shop.css";
+import Sidebar from "./Sidebar/Sidebar";
 
 const Shopgridview = () => {
-  const [product, setProduct] = React.useState("first");
-  const rangeInput = document.querySelectorAll(".range-input input");
-
-  rangeInput.forEach((input) => {
-    input.addEventListener("input", () => {
-      let minVal = parseInt(rangeInput[0].value),
-        maxVal = parseInt(rangeInput[1].value);
-
-      console.log(minVal, maxVal);
-    });
-  });
-  // const rangeInput = document.querySelectorAll(".range-input input"),
-  //   priceInput = document.querySelectorAll(".price-input input"),
-  //   range = document.querySelector(".slider .progress");
-  // let priceGap = 1000;
-  // priceInput.forEach((input) => {
-  //   input.addEventListener("input", (e) => {
-  //     let minPrice = parseInt(priceInput[0].value),
-  //       maxPrice = parseInt(priceInput[1].value);
-
-  //     if (maxPrice - minPrice >= priceGap && maxPrice <= rangeInput[1].max) {
-  //       if (e.target.className === "input-min") {
-  //         rangeInput[0].value = minPrice;
-  //         range.style.left = (minPrice / rangeInput[0].max) * 100 + "%";
-  //       } else {
-  //         rangeInput[1].value = maxPrice;
-  //         range.style.right = 100 - (maxPrice / rangeInput[1].max) * 100 + "%";
-  //       }
-  //     }
-  //   });
-  // });
+ const [product ,setProduct] = React.useState("first");
   return (
     <div className="container">
       <div className="flex items-center mt-4">
         <AiOutlineHome className="text-primary" />
-        <AiOutlineRight className="text-gray-500 mx-2" />
-        <h6>Shop</h6>
+        <AiOutlineRight className="text-primary mx-2" />
+        <h6 className="text-primary">Shop</h6>
         <AiOutlineRight className="text-gray-500 mx-2" />
         <h6>Grid view</h6>
       </div>
@@ -76,11 +46,11 @@ const Shopgridview = () => {
           </div>
           {/* product items */}
           {
-            product === "first" && <ProductItems></ProductItems>
+            product === "first" && <GridProductDetails></GridProductDetails>
            
           }
           {
-            product === "second" && <ProductItems2></ProductItems2>
+            product === "second" && <ListProductDetails></ListProductDetails>
           }
         </div>
       </div>

@@ -1,14 +1,14 @@
 import React from 'react';
-import headphones from "../../../images/headphone-2.png";
-import headphones2 from "../../../images/headphone-3.png";
-import mobile3 from "../../../images/iphone-xr.png";
-import laptop2 from "../../../images/laptop-2.png";
-import laptop from "../../../images/laptop-3.png";
-import mobile from "../../../images/phone-1.png";
-import mobile2 from "../../../images/phone-2.png";
-import shoes2 from "../../../images/shoes-3.png";
-import shoes from "../../../images/shoes-5.png";
-const ProductItems = () => {
+import headphones from "../../images/headphone-2.png";
+import headphones2 from "../../images/headphone-3.png";
+import mobile3 from "../../images/iphone-xr.png";
+import laptop2 from "../../images/laptop-2.png";
+import laptop from "../../images/laptop-3.png";
+import mobile from "../../images/phone-1.png";
+import mobile2 from "../../images/phone-2.png";
+import shoes2 from "../../images/shoes-3.png";
+import shoes from "../../images/shoes-5.png";
+const GridProductDetails = () => {
     return (
         <div className="grid grid-cols-3 gap-6">
             <div className="bg-white shadow-lg rounded overflow-hidden group">
@@ -619,4 +619,4 @@ const ProductItems = () => {
     );
 };
 
-export default ProductItems;
+export default GridProductDetails;

@@ -1,10 +1,10 @@
 import React from "react";
 import Carousel from "react-elastic-carousel";
-import logo1 from "../../../../images/slider-1.png";
-import logo2 from "../../../../images/slider-2.png";
-import logo3 from "../../../../images/slider-3.png";
-import logo4 from "../../../../images/slider-4.png";
-import logo5 from "../../../../images/slider-5.png";
+import logo1 from "../../../images/slider-1.png";
+import logo2 from "../../../images/slider-2.png";
+import logo3 from "../../../images/slider-3.png";
+import logo4 from "../../../images/slider-4.png";
+import logo5 from "../../../images/slider-5.png";
 // import "../GlobalCarousel/GlobalCarousel.css";
 import Item from "./Items";
 

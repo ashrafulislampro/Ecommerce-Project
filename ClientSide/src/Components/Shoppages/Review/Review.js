@@ -1,8 +1,8 @@
 import React from "react";
 import { AiFillStar } from "react-icons/ai";
-import img3 from "../../../../images/ashraful.jpg";
-import img2 from "../../../../images/emran.jpeg";
-import img1 from "../../../../images/jonayed.jpg";
+import img3 from "../../../images/ashraful.jpg";
+import img2 from "../../../images/emran.jpeg";
+import img1 from "../../../images/jonayed.jpg";
 const Review = () => {
   return (
     <div className="pt-10">

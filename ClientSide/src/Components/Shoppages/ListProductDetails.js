@@ -1,7 +1,7 @@
 import React from "react";
-import headphone from "../../../images/headphone-3.png";
-import mobile from "../../../images/iphone-xr.png";
-import shoes from "../../../images/shoes-5.png";
+import headphone from "../../images/headphone-3.png";
+import mobile from "../../images/iphone-xr.png";
+import shoes from "../../images/shoes-5.png";
 const ProductItems2 = () => {
   return (
     <div className="grid grid-cols-1 gap-3">
