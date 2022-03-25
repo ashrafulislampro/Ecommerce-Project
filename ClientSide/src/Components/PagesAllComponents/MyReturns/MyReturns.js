@@ -3,6 +3,7 @@ import {
   AiOutlineHome,
   AiOutlineRight
 } from "react-icons/ai";
+import { Link } from "react-router-dom";
 import keyboard from "../../../images/keyboard.png";
 import MyAccountSidebar from "../MyAccountPages/Sidebar/MyAccountSidebar";
 
@@ -43,9 +44,11 @@ const MyReturns = () => {
                 <p className="text-green-400">Successful</p>
               </div>
               <div>
-                <button className="bg-red-400 text-white hover:bg-white  hover:text-myColor border border-myColor font-semibold py-2 px-4 mx-4 rounded-md flex items-center">
+                <Link to="/myAccount/returnOrderDetails">
+                <button className="text-primary hover:bg-primary  hover:text-white border border-primary font-semibold py-2 px-4 mx-4 rounded-md flex items-center">
                   View Order
                 </button>
+                </Link>
               </div>
             </div>
           </div>

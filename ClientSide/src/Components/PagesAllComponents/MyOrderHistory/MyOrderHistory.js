@@ -1,5 +1,6 @@
 import React from 'react';
 import { AiOutlineHome, AiOutlineRight } from "react-icons/ai";
+import { Link } from 'react-router-dom';
 import tv from "../../../images/tv.png";
 import MyAccountSidebar from '../MyAccountPages/Sidebar/MyAccountSidebar';
 const MyOrderHistory = () => {
@@ -26,9 +27,11 @@ const MyOrderHistory = () => {
                       <img className="w-20" src={tv} alt="" />
                     </div>
                     <div>
+                      <Link to="/myAccount/orderDetails">
                       <button className="hover:bg-primary hover:text-white  text-primary border border-primary font-semibold py-1 transform duration-500 px-5 rounded-sm">
                         View Order
                       </button>
+                      </Link>
                     </div>
                   </div>
                 </div>

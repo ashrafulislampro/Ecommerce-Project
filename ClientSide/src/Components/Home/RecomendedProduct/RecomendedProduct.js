@@ -1,4 +1,7 @@
 import React from 'react';
+import { AiFillEye } from 'react-icons/ai';
+import { BsSuitHeartFill } from 'react-icons/bs';
+import { Link } from 'react-router-dom';
 import img5 from "../../../images/product1.jpg";
 import img4 from "../../../images/product10.jpg";
 import img7 from "../../../images/product12.jpg";
@@ -18,11 +21,11 @@ const RecomendedProduct = () => {
                 <div className="relative">
                     <img src={img1} className="w-full" alt="" />
                     <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center gap-2 opacity-0 group-hover:opacity-100 transition">
+                        <Link to="/productDetails" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
+                             <AiFillEye/>
+                        </Link>
                         <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-search"></i>
-                        </a>
-                        <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-heart"></i>
+                            <BsSuitHeartFill/>
                         </a>
                     </div>
                 </div>
@@ -53,10 +56,10 @@ const RecomendedProduct = () => {
                     <img src={img2} className="w-full" alt="" />
                     <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center gap-2 opacity-0 group-hover:opacity-100 transition">
                         <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-search"></i>
+                             <AiFillEye/>
                         </a>
                         <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-heart"></i>
+                            <BsSuitHeartFill/>
                         </a>
                     </div>
                 </div>
@@ -86,11 +89,11 @@ const RecomendedProduct = () => {
                 <div className="relative">
                     <img src={img3} className="w-full" alt="" />
                     <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center gap-2 opacity-0 group-hover:opacity-100 transition">
+                        <Link to="/productDetails" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
+                             <AiFillEye/>
+                        </Link>
                         <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-search"></i>
-                        </a>
-                        <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-heart"></i>
+                            <BsSuitHeartFill/>
                         </a>
                     </div>
                 </div>
@@ -120,11 +123,11 @@ const RecomendedProduct = () => {
                 <div className="relative">
                     <img src={img4} className="w-full" alt="" />
                     <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center gap-2 opacity-0 group-hover:opacity-100 transition">
+                        <Link to="/productDetails" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
+                             <AiFillEye/>
+                        </Link>
                         <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-search"></i>
-                        </a>
-                        <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-heart"></i>
+                            <BsSuitHeartFill/>
                         </a>
                     </div>
                 </div>
@@ -154,11 +157,11 @@ const RecomendedProduct = () => {
                 <div className="relative">
                     <img src={img5} className="w-full" alt="" />
                     <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center gap-2 opacity-0 group-hover:opacity-100 transition">
+                        <Link to="/productDetails" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
+                             <AiFillEye/>
+                        </Link>
                         <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-search"></i>
-                        </a>
-                        <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-heart"></i>
+                            <BsSuitHeartFill/>
                         </a>
                     </div>
                 </div>
@@ -188,11 +191,11 @@ const RecomendedProduct = () => {
                 <div className="relative">
                     <img src={img6} className="w-full" alt="" />
                     <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center gap-2 opacity-0 group-hover:opacity-100 transition">
+                        <Link to="/productDetails" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
+                             <AiFillEye/>
+                        </Link>
                         <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-search"></i>
-                        </a>
-                        <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-heart"></i>
+                            <BsSuitHeartFill/>
                         </a>
                     </div>
                 </div>
@@ -222,11 +225,11 @@ const RecomendedProduct = () => {
                 <div className="relative">
                     <img src={img7} className="w-full" alt="" />
                     <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center gap-2 opacity-0 group-hover:opacity-100 transition">
+                        <Link to="/productDetails" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
+                             <AiFillEye/>
+                        </Link>
                         <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-search"></i>
-                        </a>
-                        <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-heart"></i>
+                            <BsSuitHeartFill/>
                         </a>
                     </div>
                 </div>
@@ -256,11 +259,11 @@ const RecomendedProduct = () => {
                 <div className="relative">
                     <img src={img8} className="w-full" alt="" />
                     <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center gap-2 opacity-0 group-hover:opacity-100 transition">
+                        <Link to="/productDetails" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
+                             <AiFillEye/>
+                        </Link>
                         <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-search"></i>
-                        </a>
-                        <a href="/#" className="text-white text-lg w-9 h-8 rounded-lg bg-primary flex items-center justify-center hover:bg-gray-800 transition">
-                            <i className="fas fa-heart"></i>
+                            <BsSuitHeartFill/>
                         </a>
                     </div>
                 </div>

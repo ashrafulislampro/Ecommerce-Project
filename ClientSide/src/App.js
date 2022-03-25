@@ -17,8 +17,11 @@ import MyAccount from "./Components/PagesAllComponents/MyAccountPages/MyAccount/
 import ProfileInformation from "./Components/PagesAllComponents/MyAccountPages/ProfileInformation/ProfileInformation";
 import Wishlist from "./Components/PagesAllComponents/MyAccountPages/Wishlist/Wishlist";
 import MyOrderHistory from "./Components/PagesAllComponents/MyOrderHistory/MyOrderHistory";
+import OrderHistoryDetails from "./Components/PagesAllComponents/MyOrderHistory/OrderHistoryDetails";
 import MyReturns from "./Components/PagesAllComponents/MyReturns/MyReturns";
+import ReturnOrderDetails from "./Components/PagesAllComponents/MyReturns/ReturnOrderDetails";
 import MyReviews from "./Components/PagesAllComponents/MyReviews/MyReviews";
+import ReviewsDetails from "./Components/PagesAllComponents/MyReviews/ReviewsDetails";
 import OrderCancellation from "./Components/PagesAllComponents/OrderCancellations/OrderCancellation";
 import OrderComplete from "./Components/PagesAllComponents/OrderComplete/OrderComplete";
 import Payment from "./Components/PagesAllComponents/Payment/Payment";
@@ -63,6 +66,9 @@ const App = () => {
         <Route path="myAccount/myReviews" element={<MyReviews />} />
         <Route path="myAccount/payment" element={<Voucher />} />
         <Route path="myAccount/paymentMethods" element={<PaymentMethods />} />
+        <Route path="myAccount/returnOrderDetails" element={<ReturnOrderDetails />} />
+        <Route path="myAccount/reviewsDetails" element={<ReviewsDetails />} />
+        <Route path="myAccount/orderDetails" element={<OrderHistoryDetails />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
