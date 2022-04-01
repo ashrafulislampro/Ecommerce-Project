@@ -1,0 +1,502 @@
+[
+  {
+    "image": "https://i.ibb.co/sJ1Td9t/product1.jpg",
+    "title": "Madeline Sofa",
+    "description": "Fabric Sofa Bed",
+    "category": "sofa",
+    "pricepre": "500.00",
+    "price": "449.00",
+    "review": "123",
+    "_id": "1"
+  },
+  {
+    "image": "https://i.ibb.co/cxtTNQp/product2.jpg",
+    "title": "PELAGIA Lounge",
+    "description": "Outdoor Modular Lounge",
+    "category": "sofa",
+    "pricepre": "450.00",
+    "price": "440.00",
+    "review": "120",
+    "_id": "2"
+  },
+  {
+    "image": "https://i.ibb.co/Sfw8gNV/sofa-1.png",
+    "title": "PELAGIA Lounge",
+    "description": "Outdoor Modular Lounge",
+    "category": "sofa",
+    "pricepre": "120.00",
+    "price": "100.00",
+    "review": "125",
+    "_id": "3"
+  },
+  {
+    "image": "https://i.ibb.co/HHYfJ23/shoes-5.png",
+    "title": "Men Casual Shoes",
+    "description": "Outdoor Modular Lounge",
+    "category": "shoe",
+    "pricepre": "100.00",
+    "price": "80.00",
+    "review": "130",
+    "_id": "4"
+  },
+  {
+    "image": "https://i.ibb.co/7YH58TX/shoes-3.png",
+    "title": "Women High Shoes",
+    "description": "Outdoor Modular Lounge",
+    "category": "shoe",
+    "pricepre": "70.00",
+    "price": "60.00",
+    "review": "140",
+    "_id": "5"
+  },
+  {
+    "image": "https://i.ibb.co/hDgyv40/slider-2.webp",
+    "title": "Men's Adidas courtsmash",
+    "description": "Outdoor Modular Lounge",
+    "category": "shoe",
+    "pricepre": "60.00",
+    "price": "49.00",
+    "review": "145",
+    "_id": "6"
+  },
+  {
+    "image": "https://i.ibb.co/7y80MYm/laptop-2.png",
+    "title": "HP Omen 13",
+    "description": "Outdoor Modular Lounge",
+    "category": "laptop",
+    "pricepre": "560.00",
+    "price": "449.00",
+    "review": "135",
+    "_id": "7"
+  },
+  {
+    "image": "https://i.ibb.co/Q6390PR/laptop-3.png",
+    "title": "HP Pavillion 15",
+    "description": "Outdoor Modular Lounge",
+    "category": "laptop",
+    "pricepre": "300.00",
+    "price": "250.00",
+    "review": "128",
+    "_id": "8"
+  },
+  {
+    "image": "https://i.ibb.co/myJcmJp/laptop-5.png",
+    "title": "Dell 15",
+    "description": "Outdoor Modular Lounge",
+    "category": "laptop",
+    "pricepre": "200.00",
+    "price": "150.00",
+    "review": "135",
+    "_id": "9"
+  },
+  {
+    "image": "https://i.ibb.co/xgf8cTX/phone-1.png",
+    "title": "Vivo Y23",
+    "description": "Outdoor Modular Lounge",
+    "category": "phone",
+    "pricepre": "130.00",
+    "price": "100.00",
+    "review": "150",
+    "_id": "10"
+  },
+  {
+    "image": "https://i.ibb.co/Z2fBkyV/phone-2.png",
+    "title": "iPhone 11 Pro",
+    "description": "Outdoor Modular Lounge",
+    "category": "phone",
+    "pricepre": "180.00",
+    "price": "150.00",
+    "review": "160",
+    "_id": "11"
+  },
+  {
+    "image": "https://i.ibb.co/N7Rn9Lz/furniture4.png",
+    "title": "Comfort 13",
+    "description": "Outdoor Modular Lounge",
+    "category": "sofa",
+    "pricepre": "110.00",
+    "price": "90.00",
+    "review": "70",
+    "_id": "12"
+  },
+  {
+    "image": "https://i.ibb.co/h2NFWS4/furniture5.png",
+    "title": "Comfort 45",
+    "description": "Outdoor Modular Lounge",
+    "category": "chair",
+    "pricepre": "60.00",
+    "price": "500.00",
+    "review": "130",
+    "_id": "13"
+  },
+  {
+    "image": "https://i.ibb.co/YBN2T6N/furniture3.png",
+    "title": "Comfort 45",
+    "description": "Outdoor Modular Lounge",
+    "category": "furniture",
+    "pricepre": "60.00",
+    "price": "500.00",
+    "review": "156",
+    "_id": "14"
+  },
+  {
+    "image": "https://i.ibb.co/kMPNnVw/furniture1.png",
+    "title": "Comfort 45",
+    "description": "Outdoor Modular Lounge",
+    "category": "furniture",
+    "pricepre": "60.00",
+    "price": "500.00",
+    "review": "147",
+    "_id": "15"
+  },
+  {
+    "image": "https://i.ibb.co/T4XJh66/furniture6.png",
+    "title": "Comfort 45",
+    "description": "Outdoor Modular Lounge",
+    "category": "furniture",
+    "pricepre": "65.00",
+    "price": "50.00",
+    "review": "155",
+    "_id": "16"
+  },
+  {
+    "image": "https://i.ibb.co/rQRYqnQ/bed5.png",
+    "title": "Luxury bed",
+    "description": "Outdoor Modular Lounge",
+    "category": "bed",
+    "pricepre": "70.00",
+    "price": "60.00",
+    "review": "160",
+    "_id": "17"
+  },
+  {
+    "image": "https://i.ibb.co/zx2Cxkd/bed7.png",
+    "title": "Luxury bed 12",
+    "description": "Outdoor Modular Lounge",
+    "category": "bed",
+    "pricepre": "70.00",
+    "price": "60.00",
+    "review": "135",
+    "_id": "18"
+  },
+  {
+    "image": "https://i.ibb.co/Kqv9F4b/bed8.png",
+    "title": "Luxury bed 15",
+    "description": "Outdoor Modular Lounge",
+    "category": "bed",
+    "pricepre": "70.00",
+    "price": "60.00",
+    "review": "145",
+    "_id": "19"
+  },
+  {
+    "image": "https://i.ibb.co/NrPHVwg/bed6.png",
+    "title": "Luxury bed 18",
+    "description": "Outdoor Modular Lounge",
+    "category": "bed",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "134",
+    "_id": "20"
+  },
+  {
+    "image": "https://i.ibb.co/cN2bTDh/headphone-2.png",
+    "title": "Headphone 18",
+    "description": "Outdoor Modular Lounge",
+    "category": "headphone",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "165",
+    "_id": "21"
+  },
+  {
+    "image": "https://i.ibb.co/1Ggb4fP/headphone-4.png",
+    "title": "Headphone 12",
+    "description": "Outdoor Modular Lounge",
+    "category": "headphone",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "180",
+    "_id": "22"
+  },
+  {
+    "image": "https://i.ibb.co/5FgGM94/headphone-3.png",
+    "title": "Headphone 15",
+    "description": "Outdoor Modular Lounge",
+    "category": "headphone",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "23"
+  },
+  {
+    "image": "https://i.ibb.co/XFJbLNy/headphone2.png",
+    "title": "Headphone Y21",
+    "description": "Outdoor Modular Lounge",
+    "category": "headphone",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "24"
+  },
+  {
+    "image": "https://i.ibb.co/ySstWV1/keyboard3.png",
+    "title": "Keyboard Y20",
+    "description": "Outdoor Modular Lounge",
+    "category": "keyboard",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "25"
+  },
+  {
+    "image": "https://i.ibb.co/7n9qWzQ/keyboard.png",
+    "title": "Keyboard Y22",
+    "description": "Outdoor Modular Lounge",
+    "category": "keyboard",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "26"
+  },
+  {
+    "image": "https://i.ibb.co/2Whtbpv/keyboard7.png",
+    "title": "Keyboard Y25",
+    "description": "Outdoor Modular Lounge",
+    "category": "keyboard",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "27"
+  },
+  {
+    "image": "https://i.ibb.co/QD0gD4G/keyboard6.png",
+    "title": "Headphone Y23",
+    "description": "Outdoor Modular Lounge",
+    "category": "keyboard",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "28"
+  },
+  {
+    "image": "https://i.ibb.co/VH9ZN5T/bed4.png",
+    "title": "Luxury Y23",
+    "description": "Outdoor Modular Lounge",
+    "category": "bed",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "29"
+  },
+  {
+    "image": "https://i.ibb.co/zx2Cxkd/bed7.png",
+    "title": "Luxury Y13",
+    "description": "Outdoor Modular Lounge",
+    "category": "bed",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "30"
+  },
+  {
+    "image": "https://i.ibb.co/Kqv9F4b/bed8.png",
+    "title": "Luxury Y14",
+    "description": "Outdoor Modular Lounge",
+    "category": "bed",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "31"
+  },
+  {
+    "image": "https://i.ibb.co/Gd0p27f/bed9.png",
+    "title": "Luxury Y21",
+    "description": "Outdoor Modular Lounge",
+    "category": "bed",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "32"
+  },
+  {
+    "image": "https://i.ibb.co/f2cw9gC/mouse7.png",
+    "title": "A4Tech Y21",
+    "description": "Outdoor Modular Lounge",
+    "category": "mouse",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "33"
+  },
+  {
+    "image": "https://i.ibb.co/0QVd65p/mouse2.png",
+    "title": "HP Y21",
+    "description": "Outdoor Modular Lounge",
+    "category": "mouse",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "34"
+  },
+  {
+    "image": "https://i.ibb.co/tsWdVsd/mouse3.png",
+    "title": "Lenovo Y21",
+    "description": "Outdoor Modular Lounge",
+    "category": "mouse",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "35"
+  },
+  {
+    "image": "https://i.ibb.co/FVdmRcy/mouse6.png",
+    "title": "KWG Y21",
+    "description": "Outdoor Modular Lounge",
+    "category": "mouse",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "36"
+  },
+  {
+    "image": "https://i.ibb.co/W5ktnXq/iphone2.png",
+    "title": "iPhone 12 Pro",
+    "description": "Outdoor Modular Lounge",
+    "category": "iphone",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "37"
+  },
+  {
+    "image": "https://i.ibb.co/cCpFjVc/iphone5.png",
+    "title": "iPhone 13 Pro",
+    "description": "Outdoor Modular Lounge",
+    "category": "iphone",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "38"
+  },
+  {
+    "image": "https://i.ibb.co/THZcJCx/iphone.png",
+    "title": "iPhone 15 Pro",
+    "description": "Outdoor Modular Lounge",
+    "category": "iphone",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "39"
+  },
+  {
+    "image": "https://i.ibb.co/VH1Rqtg/iphone1.png",
+    "title": "iPhone 12 Pro Max",
+    "description": "Outdoor Modular Lounge",
+    "category": "iphone",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "40"
+  },
+  {
+    "image": "https://i.ibb.co/PGxtwCq/shoe4.png",
+    "title": "Adidas",
+    "description": "Outdoor Modular Lounge",
+    "category": "shoe",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "41"
+  },
+  {
+    "image": "https://i.ibb.co/mNzWp6J/slider-4.webp",
+    "title": "Adidas 21",
+    "description": "Outdoor Modular Lounge",
+    "category": "shoe",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "42"
+  },
+  {
+    "image": "https://i.ibb.co/yh2qfxX/slider-1.png",
+    "title": "Adidas 32",
+    "description": "Outdoor Modular Lounge",
+    "category": "shoe",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "43"
+  },
+  {
+    "image": "https://i.ibb.co/Hd66vwK/slider-5.webp",
+    "title": "Adidas 40",
+    "description": "Outdoor Modular Lounge",
+    "category": "shoe",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "44"
+  },
+  {
+    "image": "https://i.ibb.co/DR6RYSn/watch11.png",
+    "title": "Rolex",
+    "description": "Outdoor Modular Lounge",
+    "category": "watch",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "45"
+  },
+  {
+    "image": "https://i.ibb.co/88wHqZ3/watch44.png",
+    "title": "Rolex 23",
+    "description": "Outdoor Modular Lounge",
+    "category": "watch",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "46"
+  },
+  {
+    "image": "https://i.ibb.co/f2wxfTs/watch55.png",
+    "title": "Rolex 24",
+    "description": "Outdoor Modular Lounge",
+    "category": "watch",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "47"
+  },
+  {
+    "image": "https://i.ibb.co/527psDm/watch22.png",
+    "title": "Rolex 25",
+    "description": "Outdoor Modular Lounge",
+    "category": "watch",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "48"
+  },
+  {
+    "image": "https://i.ibb.co/0mgKR6v/camera8.png",
+    "title": "Nikon 23",
+    "description": "Outdoor Modular Lounge",
+    "category": "camera",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "49"
+  },
+  {
+    "image": "https://i.ibb.co/7nmyF12/camera7.png",
+    "title": "Nikon 23",
+    "description": "Outdoor Modular Lounge",
+    "category": "camera",
+    "pricepre": "45.00",
+    "price": "40.00",
+    "review": "123",
+    "_id": "50"
+  }
+]
