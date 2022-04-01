@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://i.ibb.co/sJ1Td9t/product1.jpg",
+    "image": "https://i.ibb.co/tZ6QPm3/sofa-2.png",
     "title": "Madeline Sofa",
     "description": "Fabric Sofa Bed",
     "category": "sofa",
@@ -10,7 +10,7 @@
     "_id": "1"
   },
   {
-    "image": "https://i.ibb.co/cxtTNQp/product2.jpg",
+    "image": "https://i.ibb.co/HxXB1Sx/product2.png",
     "title": "PELAGIA Lounge",
     "description": "Outdoor Modular Lounge",
     "category": "sofa",
@@ -50,8 +50,8 @@
     "_id": "5"
   },
   {
-    "image": "https://i.ibb.co/hDgyv40/slider-2.webp",
-    "title": "Men's Adidas courtsmash",
+    "image": "https://i.ibb.co/T1grPC9/slider-2.png",
+    "title": "Men's Adidas",
     "description": "Outdoor Modular Lounge",
     "category": "shoe",
     "pricepre": "60.00",
@@ -200,7 +200,7 @@
     "_id": "20"
   },
   {
-    "image": "https://i.ibb.co/cN2bTDh/headphone-2.png",
+    "image": "https://i.ibb.co/xqJ5LcZ/headphone4.png",
     "title": "Headphone 18",
     "description": "Outdoor Modular Lounge",
     "category": "headphone",
@@ -210,7 +210,7 @@
     "_id": "21"
   },
   {
-    "image": "https://i.ibb.co/1Ggb4fP/headphone-4.png",
+    "image": "https://i.ibb.co/bsq6YWx/headphone5.png",
     "title": "Headphone 12",
     "description": "Outdoor Modular Lounge",
     "category": "headphone",
@@ -250,7 +250,7 @@
     "_id": "25"
   },
   {
-    "image": "https://i.ibb.co/7n9qWzQ/keyboard.png",
+    "image": "https://i.ibb.co/4NSTPDQ/keyboard.png",
     "title": "Keyboard Y22",
     "description": "Outdoor Modular Lounge",
     "category": "keyboard",
