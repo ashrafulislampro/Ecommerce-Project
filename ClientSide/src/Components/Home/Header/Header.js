@@ -1,7 +1,7 @@
 import React from "react";
 import {
-    AiFillGift,
-    AiOutlineHeart, AiOutlineShoppingCart
+  AiFillGift,
+  AiOutlineHeart, AiOutlineShoppingCart
 } from "react-icons/ai";
 import { CgLogOff } from "react-icons/cg";
 import { FaRegAddressCard } from "react-icons/fa";
@@ -65,8 +65,8 @@ const Header = () => {
               <i className="far fa-user"></i>
             </div>
             <div className="text-xs leading-3">Account</div>
-            {/* dropdown start */}
-            <div className="absolute opacity-0 group-hover:opacity-100 invisible group-hover:visible z-10 w-60 text-base list-none bg-white rounded divide-y divide-gray-100 shadow">
+            {/* dropdown start*/}
+            <div className="absolute right-0 opacity-0 group-hover:opacity-100 invisible group-hover:visible z-10 w-60 text-base list-none bg-white rounded divide-y divide-gray-100 shadow">
                 <h3 className="py-5 text-gray-600 font-medium">Welcome to EMBOSSED Shop</h3>
                 <div className="flex justify-around">
                     <Link to="/register">
