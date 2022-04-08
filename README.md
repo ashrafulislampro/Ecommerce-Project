@@ -1,6 +1,6 @@
 # EMBOSSED E-COMMERCE PROJECT
 
-## [Project Live link:](https://embossed-e-commerce.web.app/). https://embossed-e-commerce.web.app/
+### [Project Live link:] https://embossed-e-commerce.web.app/
 
 ## Usable Technology
 
